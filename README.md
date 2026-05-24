@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋 I'm Thanuja!
+Welcome to my GitHub profile. 
+I am an aspiring engineer focused on building a strong foundation in computer science and software development.
 
-<!--
-**thanujanayak/thanujanayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 Aiming to pursue **Computer Science and Engineering (CSE)**
+💻 Currently exploring coding tools like Visual Studio Code and learning the basics of GitHub.  
+🎯 Goal: To build a strong foundation in software development and technology.  
+### 🛠️ Tech Stack 
+- **Languages:** Python
+-**Databases & Tools:** SQL,DBMS Fundamentals
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I want to Learn Next
+-Compiled language(java,C++)
+-Web Development(HTML,CSS,Javascript)
