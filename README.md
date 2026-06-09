@@ -7,7 +7,7 @@ I am an aspiring engineer focused on building a strong foundation in computer sc
 💻 Currently exploring coding tools like Visual Studio Code and learning the basics of GitHub.  
 🎯 Goal: To build a strong foundation in software development and technology.  
 ### 🛠️ Tech Stack 
-- **Languages:** Python
+- **Languages:** Python(my fav)
 -**Databases & Tools:** SQL,DBMS Fundamentals
 
 #### What I want to Learn Next
