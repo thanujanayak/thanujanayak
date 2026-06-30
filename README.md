@@ -8,7 +8,6 @@ I am an aspiring engineer focused on building a strong foundation in computer sc
 🎯 Goal: To build a strong foundation in software development and technology.  
 ### 🛠️ Tech Stack 
 - **Languages:** Python(my fav)
--**Databases & Tools:** SQL,DBMS Fundamentals
 
 #### What I want to Learn Next
 -Compiled language(java,C++)
